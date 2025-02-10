@@ -8,3 +8,5 @@ ___
 This GCC Sponsored workshop will introduce participants to processing and QC of single-cell RNA data using python toolkit scanpy. We aim to help you get started on understanding python data structures, get more comfortable with the syntax, and ultimately incorporate the scanpy toolkit into your big data set workflow.
  
 This workshop is for trainees already experienced with initial single-cell processing in Seurat, and familiarity with python.
+
+![gcc_scanpy_flyer](gcc_scanpy_flyer.png)
